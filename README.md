@@ -19,7 +19,7 @@ A customizable, theme-aware splash screen for Flutter. Show it for a fixed time 
 
 | Light | Dark | Gradient |
 | --- | --- | --- |
-| <img src="https://raw.githubusercontent.com/DPLYR-dev/SplashScreenFlutterPackage/master/screenshots/light.png" width="220" alt="Light theme splash"> | <img src="https://raw.githubusercontent.com/DPLYR-dev/SplashScreenFlutterPackage/master/screenshots/dark.png" width="220" alt="Dark theme splash"> | <img src="https://raw.githubusercontent.com/DPLYR-dev/SplashScreenFlutterPackage/master/screenshots/gradient.png" width="220" alt="Gradient splash"> |
+| <img src="https://raw.githubusercontent.com/KarimMohamed20/SplashScreenFlutterPackage/master/screenshots/light.png" width="220" alt="Light theme splash"> | <img src="https://raw.githubusercontent.com/KarimMohamed20/SplashScreenFlutterPackage/master/screenshots/dark.png" width="220" alt="Dark theme splash"> | <img src="https://raw.githubusercontent.com/KarimMohamed20/SplashScreenFlutterPackage/master/screenshots/gradient.png" width="220" alt="Gradient splash"> |
 
 ## Install
 
@@ -150,7 +150,7 @@ const Hero(tag: SplashScreen.defaultHeroTag, child: FlutterLogo(size: 64))
 
 ### All Supported Projects by [DPLYR](https://dplyr.dev)
 
-* [Splash Screen - Flutter](https://github.com/DPLYR-dev/SplashScreenFlutterPackage)
+* [Splash Screen - Flutter](https://github.com/KarimMohamed20/SplashScreenFlutterPackage)
   <br> a flutter package created to show simple splashscreen
 
 * [In App Call Alert - Flutter](https://github.com/DPLYR-dev/InAppCallAlert)

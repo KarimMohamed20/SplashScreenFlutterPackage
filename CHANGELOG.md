@@ -1,5 +1,9 @@
 # Changelog
 
+## [3.0.1]
+
+* Update repository, homepage and issue tracker links after transferring the repo to `KarimMohamed20/SplashScreenFlutterPackage`
+
 ## [3.0.0] - Redesign
 
 **Breaking** — see "Migrating from 2.x" in the README.

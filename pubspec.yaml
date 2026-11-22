@@ -1,9 +1,9 @@
 name: splashscreen
 description: A customizable, theme-aware splash screen for Flutter with timer or future-based navigation, entrance animations and Material 3 defaults.
-version: 3.0.0
-homepage: https://github.com/DPLYR-dev/SplashScreenFlutterPackage
-repository: https://github.com/DPLYR-dev/SplashScreenFlutterPackage
-issue_tracker: https://github.com/DPLYR-dev/SplashScreenFlutterPackage/issues
+version: 3.0.1
+homepage: https://github.com/KarimMohamed20/SplashScreenFlutterPackage
+repository: https://github.com/KarimMohamed20/SplashScreenFlutterPackage
+issue_tracker: https://github.com/KarimMohamed20/SplashScreenFlutterPackage/issues
 topics:
   - splash-screen
   - splash
